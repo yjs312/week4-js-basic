@@ -7,25 +7,21 @@
 
 ## 📁 폴더 구조 및 실습 내용
 
-📦 week4-js-basic 
-┣ 📂 week4-js-variables 
-┃ ┣ 📄 index.html
-┃ ┗ 📄 variables.js
-
-
-┣ 📂 week4-js-operators 
-┃ ┣ 📄 practice.html
-┃ ┗ 📄 operators.js
-
-
-┣ 📂 week4-js-logic 
-┃ ┣ 📄 logic.html
-┃ ┗ 📄 logic.js
-
-┣ 📂 week4-js-events 
-┃ ┣ 📄 event.html
-┃ ┗ 📄 event.js
-
+<pre><code>```
+text week4-js-basic/ 
+├── week4-js-variables/ 
+│   ├── index.html 
+│   └── variables.js 
+├── week4-js-operators/ 
+│   ├── practice.html 
+│   └── operators.js 
+├── week4-js-logic/ 
+│   ├── logic.html 
+│   └── logic.js 
+└── week4-js-events/ 
+    ├── event.html 
+    └── event.js 
+```</code></pre>
 ---
 
 ## ✅ 실행 방법
