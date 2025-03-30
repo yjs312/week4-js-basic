@@ -46,8 +46,5 @@ function greet(name) {
 result += "\n[함수 호출 결과]\n";
 result += greet("연주");
 
-// 화살표 함수
-const square = x => x * x;
-result += "5의 제곱: " + square(5);
 
 document.getElementById("output").innerText = result;
